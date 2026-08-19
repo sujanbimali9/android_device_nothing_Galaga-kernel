@@ -188,4 +188,3 @@ nfc_i2c.ko
 p73.ko
 tms_device_modules.ko
 noth_leds.ko
-task_turbo.ko
