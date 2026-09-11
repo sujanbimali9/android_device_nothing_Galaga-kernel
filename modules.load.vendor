@@ -188,3 +188,11 @@ nfc_i2c.ko
 p73.ko
 tms_device_modules.ko
 noth_leds.ko
+ax_thread_snooper.ko
+ax_affinity_guard.ko
+ax_boost.ko
+ax_atcm.ko
+ax_game_boost.ko
+ax_frame_boost.ko
+ax_burst_sched.ko
+ax_binder_ux.ko
