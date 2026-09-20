@@ -84,7 +84,6 @@ mtk_jpeg.ko
 mtk-vcodec-common.ko
 mtk-vcodec-dec-v1.ko
 mtk-vcodec-enc-v1.ko
-cpuqos_v3.ko
 mtk_ccuv.ko
 mtk-vmm-isp71-regulator.ko
 mtk_rpmsg_mbox.ko
@@ -158,7 +157,6 @@ iommu_test.ko
 t-base-tui.ko
 et5924a-regulator.ko
 dio8016-regulator.ko
-atf_logger.ko
 mtk-dvfsrc-start.ko
 bt_drv_6878.ko
 bluetooth.ko
@@ -188,4 +186,4 @@ nfc_i2c.ko
 p73.ko
 tms_device_modules.ko
 noth_leds.ko
-task_turbo.ko
+ax_dragonite.ko
