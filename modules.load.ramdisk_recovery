@@ -1,14 +1,8 @@
 bootprof.ko
-mrdump.ko
-aee_aed.ko
-aee_hangdet.ko
-monitor_hang.ko
 dbgtop-drm.ko
-irq-dbg.ko
 cache-parity.ko
 mtk_sync.ko
 mtk_disp_notify.ko
-mtk_printk_ctrl.ko
 log_store.ko
 nvmem_mtk-devinfo.ko
 mtk_wdt.ko
@@ -93,7 +87,6 @@ mediatek-drm-gateic.ko
 mediatek-drm-panel-drv.ko
 drm_display_helper.ko
 mediatek-drm.ko
-aee_rs.ko
 rt4831a_drv.ko
 mmprofile.ko
 mtk_dpc.ko
@@ -125,8 +118,6 @@ rpmb.ko
 rpmb-mtk.ko
 ufs-mediatek-mod.ko
 ufs-mediatek-dbg.ko
-blocktag.ko
-pidmap.ko
 mtk-pmic-keys.ko
 regulator-vibrator.ko
 i2c-mt65xx.ko
